@@ -6,4 +6,4 @@
     define('BASEURL', 'http://fmvc.test/');
 
     // Site name
-    define('SITENAME', 'fMVC');
+    define('SITENAME', 'FaithMVC');
