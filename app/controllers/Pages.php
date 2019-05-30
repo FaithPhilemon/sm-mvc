@@ -1,17 +1,18 @@
 <?php
 
-class Pages{
+class Pages extends Controller{
 
     // public function __construct(){
     //     echo "Pages Loading";
     // }
 
     public function index(){
-        echo "This an index method";
+        // echo "This an index method";
+        // $this->view('index');
     }
 
-    public function about($id){
-        echo $id;
+    public function about(){
+        
     }
     
 }
