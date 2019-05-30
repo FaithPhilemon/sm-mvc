@@ -4,3 +4,6 @@
 
     // Url root
     define('BASEURL', 'http://fmvc.test/');
+
+    // Site name
+    define('SITENAME', 'fMVC');

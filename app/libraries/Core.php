@@ -30,7 +30,7 @@ class Core{
         // Instantiate controller class
         $this->currentController = new $this->currentController;
 
-        // Check the second segment of url
+        // Check the second segment of url [METHOD]
         if(isset($url[1])){
             // check to see if method exist
             if(method_exists($this->currentController, $url[1])){
