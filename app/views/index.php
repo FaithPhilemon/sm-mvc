@@ -1,3 +1,3 @@
 <?php require '../app/views/inc/header.php'; ?>
-HOMEPAGE DEFAULT VIEW
+<h1>HELLO WORLD</h1>
 <?php require '../app/views/inc/footer.php'; ?>
