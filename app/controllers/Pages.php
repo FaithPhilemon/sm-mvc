@@ -3,7 +3,6 @@
 class Pages extends Controller{
 
     public function __construct(){
-        // echo "Pages Loading";
     }
 
     public function index(){
