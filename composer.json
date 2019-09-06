@@ -1,0 +1,13 @@
+{
+    "name": "faithphilemon/sm-mvc",
+    "description": "sm-mvc (small mvc) is a minimal, light-weight and simple PHP framework based on MVC.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Faith Philemon",
+            "email": "philemonfaith@gmail.com"
+        }
+    ],
+    "require": {}
+}
